@@ -31,7 +31,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **(1) Pre-Listening Activity: Learning New Words (10 minutes)**
 - **Objective**: Introduce and discuss new vocabulary from the story.
-- **Activity**: Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+- **Activity**: Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text. (https://d974c40d1ae05cd0f8.gradio.live)
 - **Teacher's Role**: Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
 - **Students' Role**: Participate in the discussion, take notes on new vocabulary, and ask questions about any unfamiliar words.
 
